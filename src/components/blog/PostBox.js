@@ -23,8 +23,8 @@ class PostBox extends Component {
                         }}>Hello the blog page is currently a work in progress. Please hold tight 🔜</p>
                         <div>
                             <span
-                                class="bg-danger"
                                 style={{
+                                    backgroundColor:'#d9534f',
                                 fontFamily: 'monospace',
                                 borderRadius:'0px',
                                 padding:'5px',
@@ -33,31 +33,28 @@ class PostBox extends Component {
                             paddingTop:'10px'
                         }}>
                                 <span
-                                    class="label label-danger"
                                     style={{
                                     fontFamily: 'monospace',
                                     color:'white',
                                     padding:'5px',
-                                    backgroundColor:'black'
+                                    backgroundColor:'#000000'
                                 }}>nothing</span>
                                 <span>    </span>
                                 <span
-                                    class="label label-danger"
                                     style={{
                                     fontFamily: 'monospace',
                                     color:'white',
                                     padding:'5px',
-                                    backgroundColor:'black'
+                                    backgroundColor:'#000000'
 
                                 }}>much</span>
                                 <span>    </span>
                                 <span
-                                    class="label label-danger"
                                     style={{
                                     fontFamily: 'monospace',
                                     color:'white',
                                     padding:'5px',
-                                    backgroundColor:'black'
+                                    backgroundColor:'#000000'
 
                                 }}>here</span>
                             </div>

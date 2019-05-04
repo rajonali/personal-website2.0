@@ -16,6 +16,7 @@ class Header extends Component {
    ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝  ╚═╝╚══════╝╚═╝
    `}
    </pre>
+   <link rel="stylesheet" href="%PUBLIC_URL%/font-awesome-4.7.0/css/font-awesome.min.css" />  
 </div>
 
     
