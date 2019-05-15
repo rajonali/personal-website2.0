@@ -30,6 +30,7 @@ const admin = () => <Admin />;
 function App() {
   return (
     <center>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" />
     <div className="App" style={{ width:'800px'  }}>
     <Router>
   <div>

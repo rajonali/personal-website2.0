@@ -6,7 +6,7 @@ class Header extends Component {
                 
             <header>
 <div style={{color:'#d9534f', fontFamily: 'Helvetica Neue', fontSize:'20px', backgroundColor: 'transparent', whiteSpace: 'pre-wrap'}}>
-<pre style={{color:'#d9534f', fontSize:'20px', border: '0px', }}>`
+<pre class="text-center" style={{color:'#d9534f', fontSize:'20px', border: '0px', }}>`
 {`
 ████████╗ █████╗ ███████╗    █████╗ ██╗     ██╗
 ╚══██╔══╝██╔══██╗██╔════╝   ██╔══██╗██║     ██║
@@ -22,13 +22,16 @@ class Header extends Component {
     
 <div class="menu" style={{ fontSize:'20px' }}>
 
-    <ul> 
+{/*     <ul> 
         <li style={{   display: 'inline', margin: '5px' }}><a href='/' style={{color:'#d9534f', fontFamily: 'Monospace', textDecoration: 'none'}}> <strong>About</strong> </a></li>
         <li style={{   display: 'inline', margin: '5px' }}><a href='/blog' style={{color:'#d9534f', fontFamily: 'Monospace', textDecoration: 'none'}}> <strong>Blog</strong> </a></li>
         <li style={{   display: 'inline', margin: '5px' }}><a href='/projects' style={{color:'#d9534f', fontFamily: 'Monospace', textDecoration: 'none'}}> <strong>Projects</strong></a></li>
 
 
     </ul>
+
+*/}
+
 </div>
 <br />
 <br />

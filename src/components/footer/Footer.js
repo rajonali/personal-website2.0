@@ -7,7 +7,8 @@ class Footer extends Component {
             <br />
             <br />
                 
-                <p class="text-dark" style={{padding: '10px', borderTop: 'dashed 1px #a6a6a6', fontFamily:'monospace', textAlign:"left"}}>© Copyright Tasnim Ali 2019</p>
+                <p class="text-dark" style={{padding: '10px', borderTop: 'dashed 1px #a6a6a6', fontFamily:'monospace', textAlign:"left"}}>
+                © Copyright Tasnim Ali 2019</p>
                 
             </footer>
         );

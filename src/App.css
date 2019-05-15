@@ -1,5 +1,7 @@
 .App {
-min-width:1000px;
+min-width:37.44rem;
+font-family: 'Source Sans Pro';
+
 }
 
 .App-logo {
@@ -28,4 +30,10 @@ min-width:1000px;
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+#project {
+  height:"1000px"
 }
