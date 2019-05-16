@@ -191,8 +191,21 @@ Here is my blog where I write my solutions to overcoming coding errors I come ac
                     textAlign: "center",
                     fontFamily: 'monospace'
                 }}
+
                     class="text-danger"><strong>Get in touch 👉  
                     <a class="text-primary" href="mailto:rajonali44492@icloud.com"> rajonali44492@icloud.com</a></strong>
+                    <br /><br />
+
+
+                    <div class="socials">
+                    <a href="#" class="fa fa-twitter-square" style={{margin:'10px'}}>https://twitter.com/rajonali1</a>
+                    <a href="#" class="fa fa-github" style={{margin:'10px'}}>https://github.com/rajonali?tab=repositories</a>
+                    <a href="#" class="fa fa-linkedin-square" style={{margin:'10px'}}>https://www.linkedin.com/in/rajonali1/</a>
+                    <a href="#" class="fa fa-medium" style={{margin:'10px'}}>https://medium.com/@rajonali44492</a>
+                    </div>
+                    
+                    
+
                 </h4>
 
 
