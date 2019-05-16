@@ -198,10 +198,10 @@ Here is my blog where I write my solutions to overcoming coding errors I come ac
 
 
                     <div class="socials">
-                    <a href="#" class="fa fa-twitter-square" style={{margin:'10px'}}>https://twitter.com/rajonali1</a>
-                    <a href="#" class="fa fa-github" style={{margin:'10px'}}>https://github.com/rajonali?tab=repositories</a>
-                    <a href="#" class="fa fa-linkedin-square" style={{margin:'10px'}}>https://www.linkedin.com/in/rajonali1/</a>
-                    <a href="#" class="fa fa-medium" style={{margin:'10px'}}>https://medium.com/@rajonali44492</a>
+                    <a href="https://twitter.com/rajonali1" class="fa fa-twitter-square" style={{margin:'10px'}} />
+                    <a href="https://github.com/rajonali?tab=repositories" class="fa fa-github" style={{margin:'10px'}} />
+                    <a href="https://www.linkedin.com/in/rajonali1/" class="fa fa-linkedin-square" style={{margin:'10px'}} />
+                    <a href="https://medium.com/@rajonali44492" class="fa fa-medium" style={{margin:'10px'}}></a>
                     </div>
                     
                     
