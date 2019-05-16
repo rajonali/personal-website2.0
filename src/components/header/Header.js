@@ -6,7 +6,7 @@ class Header extends Component {
                 
             <header>
 <div style={{color:'#d9534f', fontFamily: 'Helvetica Neue', fontSize:'20px', backgroundColor: 'transparent', whiteSpace: 'pre-wrap'}}>
-<pre class="text-center" style={{color:'#d9534f', fontSize:'20px', border: '0px', }}>`
+{/* <pre class="text-left" style={{borderWidth:3, borderColor:'#000000', color:'#d9534f', fontSize:'20px', border: '0px' }}>`
 {`
 ████████╗ █████╗ ███████╗    █████╗ ██╗     ██╗
 ╚══██╔══╝██╔══██╗██╔════╝   ██╔══██╗██║     ██║
@@ -15,7 +15,8 @@ class Header extends Component {
    ██║   ██║  ██║███████║   ██║  ██║███████╗██║
    ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝  ╚═╝╚══════╝╚═╝
    `}
-   </pre>
+   </pre>*/}
+   <h1 style={{textAlign: "left", paddingTop:"30px"}}>Tasnim Ali</h1>
    <link rel="stylesheet" href="%PUBLIC_URL%/font-awesome-4.7.0/css/font-awesome.min.css" />  
 </div>
 

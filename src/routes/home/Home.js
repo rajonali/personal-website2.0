@@ -7,23 +7,18 @@ class Home extends Component {
             <div
                 style={{
                 textAlign: "left",
-                fontFamily: 'monospace'
             }}>
                 <h3
                     style={{
                     textAlign: "left",
-                    fontFamily: 'monospace'
-                }}
-                    class="text-danger">
-                    <strong>Hi! I’m Tasnim Ali. I'm a full stack web developer based in Baton Rouge, LA 
-                    </strong>
+                    color:'#000'
+                }}>
+                    <strong>Hi! I’m Tasnim Ali. I'm a full stack web developer based in Baton Rouge, Louisiana. </strong>
                 </h3>
                 <br/>
-                <p class="text-danger" style={{ color:'red', fontFamily:'Source Sans Pro, sans-serif', fontSize:'1.2rem' }} > 
-<br />
-I’ve also been described as a hobbyist, autodidact, and neat-freak.
-<br /><br />
-Here is my blog where I write my solutions to overcoming coding problems I come across. Hopefully you can find something useful there: <a href="http://www.google.com">Tas Archives</a>  😉 <br /><br />
+                <p style={{ color:'#000', fontSize:'1.2rem' }} > 
+ 
+Here is my blog where I write my solutions to overcoming coding errors I come across. Hopefully you can find something useful there: <a href="http://www.google.com">Tas Archives</a>  😉 <br /><br />
 
 </p>
             
@@ -42,7 +37,6 @@ Here is my blog where I write my solutions to overcoming coding problems I come 
                         fontFamily: 'montserrat'
                     }}>🎯 My Skills</h3>
 
-                    <br/>
                     <br/>
                     <div
                         class="row"
@@ -186,7 +180,6 @@ Here is my blog where I write my solutions to overcoming coding problems I come 
                         fontFamily: 'montserrat'
                     }}>🌟 Latest Projects
                     </h3>
-                    <br />
                     <br />
                     <Projects />
                     
