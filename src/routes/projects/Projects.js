@@ -11,8 +11,8 @@ class Projects extends Component {
 
 
 <div class="col-sm-4">
-<div id="project" class="card" style={{textAlign:'left', fontFamily:'monospace'}}>
-  <img class="card-img-top" src="./img/fuck.svg" alt="Card image cap" />
+<div id="project" class="card" style={{textAlign:'left', height:'500px', fontFamily:'monospace'}}>
+  <img class="card-img-top" src="./img/crudimt.gif" alt="Card image cap" />
   <div class="card-body">
     <h5 class="card-title text-dark">CRUD Inventory Management App</h5>
     <p class="card-text text-dark">An app for a convenience store to organize their inventory and sales to create detailed reports with minimal UI experience and interaction.</p>
@@ -26,8 +26,8 @@ class Projects extends Component {
 
 <div class="col-sm-4">
 
-<div id="project" class="card" style={{textAlign:'left', fontFamily:'monospace', borderRadius:'0px', borderWidth:'0px'}}>
-  <img class="card-img-top" src="./img/fuck.svg" alt="Card image cap" />
+<div id="project" class="card" style={{textAlign:'left', fontFamily:'monospace', height:'500px', borderRadius:'0px', borderWidth:'0px'}}>
+  <img class="card-img-top" src="./img/applepayfinder.gif" alt="Card image cap" />
   <div class="card-body">
     <h5 class="card-title text-dark">Apple Pay Finder</h5><br />
     <p class="card-text text-dark">A MERN app to find and curate a database of establishments that take Apple Pay and also allow users to submit locations for review.</p>
@@ -40,7 +40,7 @@ class Projects extends Component {
 
 <div class="col-sm-4">
 
-<div id="project" class="card" style={{textAlign:'left', fontFamily:'monospace', borderRadius:'0px', borderWidth:'0px'}}>
+<div id="project" class="card" style={{textAlign:'left', fontFamily:'monospace',height:'500px', borderRadius:'0px', borderWidth:'0px'}}>
   <img class="card-img-top" src="./img/fuck.svg" alt="Card image cap" />
   <div class="card-body">
     <h5 class="card-title text-dark">PIRC C&C Framework </h5><br />
