@@ -37,7 +37,7 @@ Here is my blog where I write my solutions to overcoming coding errors I come ac
                     <br />
                     <ul>
                         <li>
-                        <h5>Full Stack developer intern at <a href="https://www.listedb.com/">ListedB</a> -- Worked with React+Redux, REST API, MongoDB and Netlify for deployment.</h5>
+                        <h5>Full Stack developer intern at <a href="https://www.listedb.com/">ListedB</a> -- responsible for building and maintaining the landing page and working with the backend API to create better a front-end user experience. Used React+Redux among other tools with Netlify for deployment.</h5>
 </li>                   </ul> 
                         
                         <br/>
