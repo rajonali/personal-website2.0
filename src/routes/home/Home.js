@@ -48,6 +48,8 @@ Here is my blog where I write my solutions to overcoming coding errors I come ac
 
                     <Projects />
                     <br />
+                    <br />
+
                     <h2>📄 Resources</h2>
                     <a href="https://www.slideshare.net/slideshow/embed_code/key/tCSZUxAxOMQ75S">Personal CV</a>
                     <br />

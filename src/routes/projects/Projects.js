@@ -33,7 +33,7 @@ class Projects extends Component {
     <p class="card-text text-dark">A MERN app to find and curate a database of establishments that take Apple Pay and also allow users to submit locations for review.</p>
     <p class="card-text text-dark">Technologies: MongoDB, Express, React, and Node </p>
       </div>
-      <a href="#" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
+      <a href="https://github.com/rajonali/CRUD-Inventory-Mgmt-Tool" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
 
 </div>
 </div>
@@ -47,7 +47,7 @@ class Projects extends Component {
     <p class="card-text text-dark">An IRC relayed command and control server + client script written in Python to communicate with raw TCP sockets. </p>
     <p class="card-text text-dark">Technologies: Python, Flask, MySQL</p>
       </div>
-      <a href="#" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
+      <a href="https://github.com/rajonali/PIRCBOTNET" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
 
 </div>
 </div>
