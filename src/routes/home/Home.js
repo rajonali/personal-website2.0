@@ -30,162 +30,27 @@ Here is my blog where I write my solutions to overcoming coding errors I come ac
                         href="https://fonts.googleapis.com/css?family=Montserrat"
                         rel="stylesheet"/>
 
-                    <h3
-                        class="text-center"
-                        style={{
-                        color: 'black',
-                        fontFamily: 'montserrat'
-                    }}>🎯 My Skills</h3>
+                   
 
                     <br/>
-                    <div
-                        class="row"
-                        style={{
-                        color: 'black'
-                    }}>
-                        <div
-                            class="card col"
-                            style={{
-                            padding: '0px',
-                            marginRight: '10px'
-                        }}>
-                            <div
-                                class="card-header text-center"
-                                style={{
-                                textAlign: 'center',
-                                fontFamily: 'helvetica',
-                                backgroundColor: '#d9534f',
-                                color: 'white'
-                            }}>
-                                <strong>
-                                     Languages<br />&nbsp;
-                                </strong>
-                            </div>
-                            <ul
-                                class="list-group text-center list-group-flush"
-                                style={{
-                                padding: "0px",
-                                listStyleType: "none",
-                                fontSize: '15px'
-                            }}>
-                                <li class="list-group-item">Python 2,3</li>
-                                <li class="list-group-item">Javascript</li>
-                                <li class="list-group-item">Java</li>
-                                <li class="list-group-item">Ruby</li>
-                                <li class="list-group-item">PHP</li>
-                                <li class="list-group-item">HTML</li>
-                            </ul>
-                        </div>
-                        <div
-                            class="card col"
-                            style={{
-                            padding: '0px',
-                            marginRight: '10px'
-                        }}>
-                            <div
-                                class="card-header text-center"
-                                style={{
-                                textAlign: 'center',
-                                fontFamily: 'helvetica',
-                                backgroundColor: '#d9534f',
-                                color: 'white'
-                            }}>
-                                <strong>
-                                    Libraries and Frameworks
-                                </strong>
-                            </div>
-                            <ul
-                                class="list-group text-center list-group-flush"
-                                style={{
-                                padding: "0px",
-                                listStyleType: "none",
-                                fontSize: '15px'
-                            }}>
-                                <li class="list-group-item">Flask</li>
-                                <li class="list-group-item">React</li>
-                                <li class="list-group-item">React Native</li>
-                                <li class="list-group-item">Android Development Framework</li>
-                            </ul>
-                        </div>
-                        <div
-                            class="card col"
-                            style={{
-                            padding: '0px',
-                            marginRight: '10px'
-                        }}>
-                            <div
-                                class="card-header text-center"
-                                style={{
-                                textAlign: 'center',
-                                fontFamily: 'helvetica',
-                                backgroundColor: '#d9534f',
-                                color: 'white'
-                            }}>
-                                <strong>
-                                    Methodologies<br />&nbsp;   
-                                </strong>
-                            </div>
-                            <ul
-                                class="list-group text-center list-group-flush"
-                                style={{
-                                padding: "0px",
-                                listStyleType: "none",
-                                fontSize: '15px'
-                            }}>
-                                <li class="list-group-item">REST API</li>
-                                <li class="list-group-item">MVC</li>
-                                <li class="list-group-item">WebHooks and APIs</li>
-                            </ul>
-                        </div>
-                        <div
-                            class="card col"
-                            style={{
-                            padding: '0px',
-                            marginRight: '10px'
-                        }}>
-                            <div
-                                class="card-header text-center"
-                                style={{
-                                textAlign: 'center',
-                                fontFamily: 'helvetica',
-                                backgroundColor: '#d9534f',
-                                color: 'white'
-                            }}>
-                                <strong>
-                                    Deployment & Databases
-                                </strong>
-                            </div>
-                            <ul
-                                class="list-group text-center list-group-flush"
-                                style={{
-                                padding: "0px",
-                                listStyleType: "none",
-                                fontSize: '15px'
-                            }}>
-                                <li class="list-group-item">SQL (postgresql, phpmyadmin, mysql)</li>
-                                <li class="list-group-item">Heroku</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-                <div>
-                    <br/>
-                    <br/>
-
-                    <h3
-                        class="text-center"
-                        style={{
-                        color: 'black',
-                        fontFamily: 'montserrat'
-                    }}>🌟 Latest Projects
-                    </h3>
+                    <h2>💼 Recent Experience:</h2>
                     <br />
-                    <Projects />
-                    
+                    <ul>
+                        <li>
+                        <h5>Full Stack developer intern at <a href="https://www.listedb.com/">ListedB</a> -- Worked with React+Redux, REST API, MongoDB and Netlify for deployment.</h5>
+</li>                   </ul> 
+                        
+                        <br/>
+                        <br/>
 
+                    <h2>💻 Projects</h2>
+                    <br />
+
+                    <Projects />
+                    <br />
+                    
                 </div>
-                <br /><br /><br />
+                <br /><br />
                 <h4
                     style={{
                     textAlign: "center",
