@@ -18,7 +18,14 @@ class Home extends Component {
                 <br/>
                 <p style={{ color:'#000', fontSize:'1.2rem' }} > 
  
-Here is my blog where I write my solutions to overcoming coding errors I come across. Hopefully you can find something useful there: <a href="http://www.google.com">Tas Archives</a>  😉 <br /><br />
+
+A passion for software development and making new technologies to solve everyday problems. 
+<br />
+<br />
+My interest and skills span all over the place, but the ones listed below I am most confident in. 
+<br />
+<br />
+Here is my blog. Hopefully you can find something useful there: <a href="http://www.google.com">Tas Archives</a>  😉 <br /><br />
 
 </p>
             
