@@ -47,7 +47,7 @@ class Projects extends Component {
     <p class="card-text text-dark">PoC Photography portfolio.  </p>
     <p class="card-text text-dark">Technologies: React</p>
       </div>
-      <a href="https://github.com/rajonali/PIRCBOTNET" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
+      <a href="https://github.com/rajonali/kennybreland" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
 
 </div>
 </div>
