@@ -41,11 +41,11 @@ class Projects extends Component {
 <div class="col-sm-4">
 
 <div id="project" class="card" style={{textAlign:'left', fontFamily:'monospace',height:'500px', borderRadius:'0px', borderWidth:'0px'}}>
-  <img class="card-img-top" src="./img/fuck.svg" alt="Card image cap" />
+  <img class="card-img-top" src="./img/kb.gif" alt="Card image cap" />
   <div class="card-body">
-    <h5 class="card-title text-dark">PIRC C&C Framework </h5><br />
-    <p class="card-text text-dark">An IRC relayed command and control server + client script written in Python to communicate with raw TCP sockets. </p>
-    <p class="card-text text-dark">Technologies: Python, Flask, MySQL</p>
+    <h5 class="card-title text-dark">Kenny Breland Portfolio</h5><br />
+    <p class="card-text text-dark">PoC Photography portfolio.  </p>
+    <p class="card-text text-dark">Technologies: React</p>
       </div>
       <a href="https://github.com/rajonali/PIRCBOTNET" style={{padding:'10px', borderRadius:'0px', backgroundColor:'#d9534f'}} class="btn btn-danger">Go to Github Repo</a>
 
