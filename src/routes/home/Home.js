@@ -57,7 +57,7 @@ My interest and skills span all over the place, but the ones listed below I am m
                     <br />
 
                     <h2>📄 Resources</h2>
-                    <a href="https://www.slideshare.net/slideshow/embed_code/key/tCSZUxAxOMQ75S">Personal CV</a>
+                    <a href="https://rajonali.github.io/online-cv/">Personal CV</a>
                     <br />
                     
                 </div>
